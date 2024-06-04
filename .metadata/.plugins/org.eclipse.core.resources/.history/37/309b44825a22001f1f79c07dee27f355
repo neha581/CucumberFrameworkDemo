@@ -1,0 +1,27 @@
+package com.saucedemo.stepdefinitions;
+
+import io.cucumber.java.en.Given;
+import io.cucumber.java.en.When;
+import io.cucumber.java.en.Then;
+
+public class LoginSteps {
+
+    @Given("User is on Login Page")
+    public void user_is_on_login_page() {
+        System.out.println("User is on Login Page");
+        // Code to navigate to login page
+    }
+
+    @When("User enters valid username and password")
+    public void user_enters_valid_username_and_password() {
+        System.out.println("User enters valid username and password");
+        // Code to enter username and password
+    }
+
+    @Then("User is navigated to the Home Page")
+    public void user_is_navigated_to_the_home_page() {
+        System.out.println("User is navigated to the Home Page");
+        // Code to verify navigation to home page
+    }
+}
+
