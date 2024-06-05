@@ -603,3 +603,7 @@
 2024-06-04 15:41:00,288 [Worker-57: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/neha/eclipseWorkspace2024/CucumberFrameworkDemo/src/main/resources
 2024-06-04 15:41:00,292 [Worker-57: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2024-06-04 15:41:00,292 [Worker-57: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/neha/eclipseWorkspace2024/CucumberFrameworkDemo/src/test/resources
+2024-06-04 17:25:59,492 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-04 17:25:59,501 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/neha/eclipseWorkspace2024/CucumberFrameworkDemo/src/main/resources
+2024-06-04 17:25:59,503 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-04 17:25:59,503 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/neha/eclipseWorkspace2024/CucumberFrameworkDemo/src/test/resources
